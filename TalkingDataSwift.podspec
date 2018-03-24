@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/liuruinan8/TalkingDataSwift.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'TalkingData/Classes/*.{h,m}'
-  s.public_header_files = 'TalkingData/Classes/TalkingData.h'
+  s.source_files = 'TalkingDataSwift/Classes/*.{h,m}'
+  s.public_header_files = 'TalkingDataSwift/Classes/TalkingData.h'
 end
