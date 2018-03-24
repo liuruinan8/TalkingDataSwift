@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TalkingDataSwift_Tests' do
+  pod 'TalkingDataSwift', :path => '../'
+  
+  
+end
