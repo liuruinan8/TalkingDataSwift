@@ -1,0 +1,6 @@
+framework module TalkingDataSwift {
+  umbrella header "TalkingDataSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

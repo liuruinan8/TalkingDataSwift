@@ -1,0 +1,16 @@
+PODS:
+  - TalkingDataSwift (0.1.0)
+
+DEPENDENCIES:
+  - TalkingDataSwift (from `../`)
+
+EXTERNAL SOURCES:
+  TalkingDataSwift:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TalkingDataSwift: 6ff15f5e42185fa0020cc4a531bfb28602e21ad5
+
+PODFILE CHECKSUM: 76ab73e227361eea82e40f11a126ebddccd45a18
+
+COCOAPODS: 1.4.0
